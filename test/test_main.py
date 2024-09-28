@@ -1,4 +1,4 @@
-from src.main import get_path_from_arguments
+from ..src.main import get_path_from_arguments
 import pytest
 
 

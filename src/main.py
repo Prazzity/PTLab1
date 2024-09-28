@@ -1,7 +1,7 @@
 import argparse
 import sys
 
-from CalcRating import CalcRating
+from src.CalcRating import CalcRating
 from TextDataReader import TextDataReader
 
 

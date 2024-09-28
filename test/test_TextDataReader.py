@@ -1,6 +1,6 @@
 import pytest
-from src.Types import DataType
-from src.TextDataReader import TextDataReader
+from ..src.Types import DataType
+from ..src.TextDataReader import TextDataReader
 
 
 class TestTextDataReader:

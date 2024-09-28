@@ -1,4 +1,4 @@
-from Types import DataType
+from src.Types import DataType
 from DataReader import DataReader
 
 
